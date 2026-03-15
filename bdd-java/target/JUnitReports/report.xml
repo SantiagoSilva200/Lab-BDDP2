@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="23.925">
+    <testcase classname="Add Remove Elements" name="Add element" time="6.154">
+        <system-out><![CDATA[Given I open the Add Remove Elements page...................................passed
+When I click the Add Element button.........................................passed
+Then I should see the Delete button.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Checkboxes" name="Select checkbox" time="5.295">
+        <system-out><![CDATA[Given I open the Checkboxes page............................................passed
+When I select the first checkbox............................................passed
+Then the first checkbox should be selected..................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Dropdown" name="Select option from dropdown" time="4.958">
+        <system-out><![CDATA[Given I open the Dropdown page..............................................passed
+When I select Option 1......................................................passed
+Then Option 1 should be selected............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Google Search" name="Search for a term" time="7.239">
+        <system-out><![CDATA[Given I am on the Google search page........................................passed
+When I search for "GitHub"..................................................passed
+Then I should see "GitHub" in the results...................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,8 @@
+/workspaces/Lab-BDDP2/bdd-java/src/test/java/pages/AddRemovePage.java
+/workspaces/Lab-BDDP2/bdd-java/src/test/java/pages/CheckboxPage.java
+/workspaces/Lab-BDDP2/bdd-java/src/test/java/pages/DropdownPage.java
+/workspaces/Lab-BDDP2/bdd-java/src/test/java/runners/TestRunner.java
+/workspaces/Lab-BDDP2/bdd-java/src/test/java/steps/AddRemoveSteps.java
+/workspaces/Lab-BDDP2/bdd-java/src/test/java/steps/CheckboxSteps.java
+/workspaces/Lab-BDDP2/bdd-java/src/test/java/steps/DropdownSteps.java
+/workspaces/Lab-BDDP2/bdd-java/src/test/java/steps/SearchSteps.java
